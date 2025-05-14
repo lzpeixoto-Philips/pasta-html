@@ -76,6 +76,8 @@ img {
 
 .lista li:hover {
     transform: scale(1.03);
+    background-color: rgba(89, 55, 43, 1);
+    color: white;
 }
 
 .redes {
