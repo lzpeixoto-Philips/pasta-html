@@ -16,7 +16,7 @@ body {
 
 .main {
     width: 750px;
-    border: 8px solid rgba(96, 132, 140, 1);
+    border: 8px solid rgba(191, 157, 128, 1);
     border-radius: 20px;
     padding: 20px;
     box-shadow: 0 0 15px rgba(96, 132, 140, 0.4);
