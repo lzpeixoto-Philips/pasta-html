@@ -156,3 +156,10 @@ a:hover {
 .form-container button:hover {
     background-color: rgba(120, 70, 55, 1);
 }
+
+.footer{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: rgba(89, 55, 43, 1);
+}
