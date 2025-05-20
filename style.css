@@ -163,3 +163,24 @@ a:hover {
     font-size: 14px;
     color: rgba(89, 55, 43, 1);
 }
+
+#dark-mode {
+    background-color: rgba(89, 55, 43, 1);
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    font-size: 32px;
+    display: flex;
+    margin: 0 90%;
+    margin-top: -50px ;
+}
+.dark-mode {
+background: rgba(164, 142, 132, 1);
+}
+.dark-mode .main  {
+    background: rgb(187, 160, 149);
+    border: 8px solid rgb(228, 204, 183);
+}
+
+
